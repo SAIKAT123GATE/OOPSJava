@@ -1,4 +1,4 @@
-package Polymorphism;
+package Polymorphism.CompileTimePolymorphism;
 
 public class CompileTimePolymorphism {
     public static void main(String[] args) {
